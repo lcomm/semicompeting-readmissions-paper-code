@@ -5,9 +5,9 @@ This repository contains R code to replicate all analyses for a manuscript on se
 
 - `data`: directory containing synthetic data (`scrData-fake.rds`) and (permissions allowing) the real data set analyzed in the paper (`scrData.rds`)
 - `inst`: necessary configuration files
-- `intermediates`: directory for storing saved data objects and other less critical computational outputs
-- `output`: plots, tables, and other key outputs directly referenced in the manuscript
 - `scripts`: numbered R scripts which recreate analysis outputs for the final manuscript version
+- `intermediates`: _(created as needed)_ directory for storing saved data objects and other less critical computational outputs
+- `output`: _(created as needed)_ plots, tables, and other key outputs directly referenced in the manuscript
 
 # Available toggles
 
